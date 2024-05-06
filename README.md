@@ -17,7 +17,7 @@
     <td align="center" style="padding: 20px;">
       <h3>Mazetake</h3>
       <a href="https://github.com/JvrChavez/Mazetake">
-        <img src="https://github.com/JvrChavez/countDino/assets/60673259/ccb10fef-420a-40be-a70b-1adcc6525985" alt="gif of Mazetake" width="400"/>
+        <img src="https://github.com/JvrChavez/countDino/assets/60673259/ccb10fef-420a-40be-a70b-1adcc6525985" alt="gif of Mazetake" width="380"/>
       </a></br>
       <a href="https://github.com/JvrChavez/Mazetake">
         <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&color=blue">
@@ -27,7 +27,7 @@
     <td align="center" style="padding: 20px;">
       <h3>CountDino</h3>
       <a href="https://github.com/JvrChavez/countDino">
-        <img src="https://github.com/JvrChavez/countDino/assets/60673259/82c16be9-69da-41d5-8a63-e2db8f8d2334" alt="gif of CountDino" width="400"/>
+        <img src="https://github.com/JvrChavez/countDino/assets/60673259/82c16be9-69da-41d5-8a63-e2db8f8d2334" alt="gif of CountDino" width="380"/>
       </a></br>
       <a href="https://github.com/JvrChavez/countDino">
         <img src="https://img.shields.io/badge/CODE-blue?style=for-the-badge&logo=github&color=pear">
