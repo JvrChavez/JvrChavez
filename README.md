@@ -12,9 +12,9 @@
 - 📧 Contact me for collaborations and professional opportunities.
 - ⚡ Fun fact: Passionate about creating virtual worlds and exploring new technologies.
 ## My Games
-<table>
+<table style="height: 100%;">
   <tr>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 20px; vertical-align: top;"">
       <h3>Mazetake</h3>
       <a href="https://github.com/JvrChavez/Mazetake">
         <img src="https://github.com/JvrChavez/countDino/assets/60673259/ccb10fef-420a-40be-a70b-1adcc6525985" alt="gif of Mazetake" width="380"/>
@@ -24,7 +24,7 @@
       </a>
       <p>Players navigate through mysterious mazes in virtual reality environments. VR maze game currently in development.</p></br>
     </td>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 20px; vertical-align: top;"">
       <h3>CountDino</h3>
       <a href="https://github.com/JvrChavez/countDino">
         <img src="https://github.com/JvrChavez/countDino/assets/60673259/82c16be9-69da-41d5-8a63-e2db8f8d2334" alt="gif of CountDino" width="380"/>
